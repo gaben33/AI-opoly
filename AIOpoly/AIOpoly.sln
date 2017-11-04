@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIOpoly", "WindowsFormsApplication1\AIOpoly.csproj", "{EE24CBC7-F43F-4700-BB32-A4AECA225E44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIpoly", "AIpoly\AIpoly.csproj", "{D1784B0B-580E-42D5-BD52-7128CAA2D31C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EE24CBC7-F43F-4700-BB32-A4AECA225E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE24CBC7-F43F-4700-BB32-A4AECA225E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE24CBC7-F43F-4700-BB32-A4AECA225E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE24CBC7-F43F-4700-BB32-A4AECA225E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1784B0B-580E-42D5-BD52-7128CAA2D31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1784B0B-580E-42D5-BD52-7128CAA2D31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1784B0B-580E-42D5-BD52-7128CAA2D31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1784B0B-580E-42D5-BD52-7128CAA2D31C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
